@@ -48,8 +48,6 @@ portfolio/
 
 ├── images/ # Contains avatar, culture, hobbies, etc.
 
-└── assets/ # (Optional for favicon or extra design)
-
 ---
 
 ## 📬 Contact Me
